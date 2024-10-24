@@ -1,0 +1,100 @@
+Name,Typ,Hersteller,Anzahl
+AatII,FD,Thermo Scientific,1
+ApaI,FD,Thermo Scientific,2
+ApaI,,Thermo Scientific,3
+Alw44I,FD,Thermo Scientific,1
+BamHI,FD,Thermo Scientific,4
+BamHI,,Promega,1
+BamHI,,Thermo Scientific,1
+BamHI,,Nippon,1
+BcuI,FD,Thermo Scientific,4
+BcuI,SpelI,Thermo Scientific,1
+BglI,,Thermo Scientific,1
+BglII,FD,Thermo Scientific,2
+BglII,,NEB,4
+Bpu1102I,Blpl,Thermo Scientific,1
+BlpI,,NEB,1
+BSAI-HFV2,,NEB,3
+BsmBI-v2,,NEB,1
+BshTI(AgeI),,Thermo Scientific,1
+BspOI,FD,Thermo Scientific,1
+Bsp68I(NruI),,Thermo Scientific,1
+Bsp1407I,FD,Thermo Scientific,2
+BsuRI,FD,Thermo Scientific,1
+Bsu15I,FD,Thermo Scientific,2
+BstXI,FD,Thermo Scientific,1
+BarXI,,Thermo Scientific,1
+ClaI,,NEB,1
+,,,
+,,,
+DpnI,FD,Thermo Scientific,4
+DpnI,,NEB,1
+DraI,FD,Thermo Scientific,1
+DraI(AhaIII),,Thermo Scientific,1
+EcoRI,FD,Thermo Scientific,4
+EcoRI,FD,Thermo Scientific,1
+λ/EcoRI,,Thermo Scientific,1
+EcoRV,FD,Thermo Scientific,2
+EcoRV,,Promega,1
+Eco32I(EcoRV),,Thermo Scientific,1
+Eco32I ,FD,Thermo Scientific,1
+Eco52I,FD,Thermo Scientific,1
+Eco147I,FD,Thermo Scientific,1
+Eco47III,,Thermo Scientific,1
+Eco81I(SauI),,Thermo Scientific,1
+Eco88I ,FD,Thermo Scientific,1
+HincII,,NEB,1
+HncII(HndII),,Thermo Scientific,1
+HndIII,FD,Thermo Scientific,3
+HndIII,,Thermo Scientific,1
+,,,
+KpnI,FD,Thermo Scientific,2
+KpnI,,Thermo Scientific,1
+Kpn2I,FD,Thermo Scientific,1
+Kpn2I(BspEI),,Thermo Scientific,1
+MboI,,Thermo Scientific,2
+MlsI,FD,Thermo Scientific,1
+MluI,,Fastgen,1
+MluI(GQ),,Promega,1
+MluI,FD,Thermo Scientific,2
+MscI,,NEB,1
+McoI,,Promega,1
+NcoI,,Thermo Scientific,1
+NcoI,FD,Thermo Scientific,3
+NdeI,FD,Thermo Scientific,4
+NdeI,,Thermo Scientific,3
+NheI,,Fastgen,1
+NheI,FD,Thermo Scientific,4
+NotI,FD,Thermo Scientific,3
+NotI,,Thermo Scientific,3
+NotI(GQ),,Promega,1
+PacI,FD,Thermo Scientific,3
+PagI(Bsp)HI,,Thermo Scientific,1
+PdmI(XmnI),,Thermo Scientific,1
+PluTI,,NEB,1
+PscI(PciI),,Thermo Scientific,1
+PstI,,Thermo Scientific,2
+,,,
+RsaI,FD,Thermo Scientific,1
+SapI,,NEB,2
+SacI,,Thermo Scientific,1
+SacII,,NEB,2
+SalI,FD,Thermo Scientific,1
+SalI,,Thermo Scientific,1
+SalI,,Fastgen,1
+SalI-HF,,NEB,1
+ScaI,FD,Thermo Scientific,1
+SmaI,FD,Thermo Scientific,3
+SmaI,,Thermo Scientific,1
+SpeIGQ,,Promega,1
+SpeI,,Fastgen,1
+StuI,FD,Thermo Scientific,1
+VspI,,Thermo Scientific,1
+VspI(AseI),,Thermo Scientific,1
+XbaI,FD,Thermo Scientific,5
+XbaI,,Thermo Scientific,1
+XmaJI,FD,Thermo Scientific,1
+XhoI,FD,Thermo Scientific,4
+XhoI,,Thermo Scientific,2
+XhoI,,Fastgen,1
+XhoI,,Promega,1

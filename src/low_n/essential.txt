@@ -1,0 +1,16 @@
+wheel
+biopython
+datasets
+Levenshtein
+numpy
+pandas
+peft
+regex
+scikit-learn
+scipy
+transformers
+tokenizers
+tqdm
+torch
+typer
+pynvml

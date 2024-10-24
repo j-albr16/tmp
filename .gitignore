@@ -1,0 +1,14 @@
+__pycache__
+venv
+*_db.fasta
+*.sqlite3
+*out*
+results
+.env
+.locks
+dist 
+build
+*.egg-info
+.pypirc
+data
+
